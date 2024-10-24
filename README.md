@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aa00ff&height=120&section=header"/>
 
-<p>P.S.: Estou subindo arquivos antigos. Os novos só vão aparecer quando eu me sentir bem para poder enviá-los.</p>
+<p align="center">P.S.: Estou subindo arquivos antigos. Os novos só vão aparecer quando eu me sentir bem para poder enviá-los.</p>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=aa00ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Otávio+Augusto;I'm+20+years+old;I+am+from+Belo+Horizonte,+MG;I+study+Computer+Science+in+UNA;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
