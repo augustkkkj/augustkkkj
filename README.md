@@ -16,7 +16,7 @@
 
 
 <div align="center">  
-<a href="https://www.instagram.com/augustkkkj/" target="_blank">
+<a href="https://www.instagram.com/ugust.s/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-aa00ff?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </div> 
